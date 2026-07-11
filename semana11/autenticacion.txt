@@ -6,4 +6,4 @@ Algunas rutas deben estar protegidas porque permiten crear, modificar o consulta
 
 Esto evita accesos no autorizados y posibles abusos del sistema.
 
-No se debe exponer públicamente información sensible como contraseñas, documentos de identidad, teléfonos, direcciones, tokens o claves de API.
+No se debe exponer públicamente información sensible como contraseñas, documentos de identidad, teléfonos, direcciones, tokens o claves de API. 
